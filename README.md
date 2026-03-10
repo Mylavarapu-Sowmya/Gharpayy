@@ -59,3 +59,18 @@ Follow these steps to run the project locally.
 
 ```
 git clone https://github.com/Mylavarapu-Sowmya/gharpayy-lead-connect-main.git
+
+```
+### 2. Navigate to the Project Folder
+```
+cd gharpayy-lead-connect-main
+```
+### 3. Install Dependencies
+```
+npm install
+```
+
+### 4. Start the Development Server
+```
+npm run dev
+```
